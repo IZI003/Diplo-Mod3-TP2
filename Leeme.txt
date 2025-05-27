@@ -1,2 +1,14 @@
 tp 2 
--
+-instalacion y prueba de node
+
+ejercicios
+
+1- path
+
+2- OS
+
+3- FS
+
+4- EVENTS
+
+5- HTTP
